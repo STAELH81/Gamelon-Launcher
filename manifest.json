@@ -8,8 +8,8 @@
   "mods": [
     {
       "file": "sodium.jar",
-      "url": "https://raw.githubusercontent.com/TONUSER/TONREPO/main/modpack/mods/sodium.jar",
-      "sha1": "A_REMPLACER"
+      "url": "https://raw.githubusercontent.com/STAELH81/Gamelon-Launcher/main/mods/sodium-fabric-0.7.3+mc1.21.10.jar",
+      "sha1": "1c3ffa862d9fa4479abf67a88527907d60237248"
     }
   ]
 }
