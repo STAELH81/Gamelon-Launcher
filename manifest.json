@@ -1,0 +1,15 @@
+{
+  "packName": "Gamelon",
+  "minecraft": "1.21.10",
+  "loader": {
+    "type": "fabric",
+    "version": "0.17.3"
+  },
+  "mods": [
+    {
+      "file": "sodium.jar",
+      "url": "https://raw.githubusercontent.com/TONUSER/TONREPO/main/modpack/mods/sodium.jar",
+      "sha1": "A_REMPLACER"
+    }
+  ]
+}
